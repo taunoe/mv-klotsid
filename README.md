@@ -1,5 +1,9 @@
 # mv-klotsid
 
+My machine vision project is to track and count custom wooden bricks.
+
+Project documentation on my [https://taunoerik.art/2023/04/30/machine-vision-project/](blog).
+
 ## Set Up a Virtual Environment
 
 ```Bash
